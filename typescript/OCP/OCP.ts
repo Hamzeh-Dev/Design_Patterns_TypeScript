@@ -1,5 +1,5 @@
 
-// Wrong Code
+// ! Wrong Code ( This Code Violate OCP )
 // class Discount {
 //     giveDiscount(customerType: "premium" | "regular"): number {
 //         if (customerType == "regular") {
@@ -14,7 +14,7 @@
 
 
 
-// Correct Code
+// * Correct Code
 interface Customer {
     giveDiscount(): number;
 }

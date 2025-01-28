@@ -20,7 +20,7 @@ class Post {
         // Block of Code
     }
 
-    // This Violate the SRP Principle
+    // ! This Violate the SRP Principle
     // display() {
     //     return `<h1>${this.title}</h1> <p>${this.content}</p>`
     // }
