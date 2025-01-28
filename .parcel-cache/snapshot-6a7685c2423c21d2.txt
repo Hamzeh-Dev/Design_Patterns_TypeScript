@@ -1,4 +1,4 @@
-4201
+4207
 137C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@swc\helpers\_\_unsupported_iterable_to_array\package.json133824839917926967 0
 124C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\posthtml\node_modules\entities\lib\index.d.ts133824839909647887 0
 76C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\.gitignore133824905355722248 0
@@ -24,10 +24,10 @@
 106C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\events\package.json133824839907709712 0
 96C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\dotenv-expand\lib133824839887424100 1
 102C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\escalade\dist\index.mjs133824839880399348 0
-70C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\dist133825414947245229 1
+70C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\dist133825446982003274 1
 130C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\core\test\fixtures\config-extends-not-found133824839908488449 1
 95C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\globals\index.js133824839881889371 0
-76C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\index.html133825414939779867 0
+76C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\index.html133825446980285910 0
 131C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\posthtml\node_modules\htmlparser2\lib\index.d.ts.map133824839921551628 0
 117C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\css-sel2.js133824839911610495 0
 99C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\json5\dist\index.mjs133824839886087453 0
@@ -54,7 +54,29 @@
 95C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\.bin\detect-libc133824839956559280 0
 118C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\shadowdom.js133824839928900597 0
 104C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\is-arrayish\.editorconfig133824839881748861 0
-76C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\typescript133825409430441227 1
+76C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\typescript133825433085314057 1
+115C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\bigint.js133824839895457960 0
+103C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\json5\lib\stringify.d.ts133824839886973664 0
+110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\regions\ZW.js133824839933606734 0
+91C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\typescript\Inheritance.ts133825432416215381 0
+103C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\semver\functions\sort.js133824839890950054 0
+123C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\css-page-break.js133824839910732554 0
+103C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\ordered-binary\README.md133824839883852567 0
+110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\regions\MN.js133824839925206976 0
+88C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\js-tokens133824839880223613 1
+123C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@swc\helpers\_\_async_generator\package.json133824839910857751 0
+91C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\posthtml\lib133824839882547098 1
+121C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@swc\helpers\cjs\_wrap_async_generator.cjs133824839897974476 0
+92C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\typescript\Inheritance2.ts133825446915612785 0
+104C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\posthtml-parser\readme.md133824839883530629 0
+107C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\postcss-value-parser\LICENSE133824839879577172 0
+113C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\packager-wasm\package.json133824839900147448 0
+110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\regions\IR.js133824839922221084 0
+125C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\meta-theme-color.js133824839924976976 0
+109C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\utils\src\sourcemap.js133824839911385956 0
+118C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\css-masks.js133824839909446977 0
+105C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\utils\package.json133824839911843843 0
+95C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\posthtml\license133824839881503446 0
 97C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\htmlnano\index.cjs133824839887392564 0
 121C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\entities\lib\generated\decode-data-html.js133824839881553537 0
 135C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\030-config.md133824839895933148 0
@@ -134,10 +156,6 @@
 104C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\node-addon-api\LICENSE.md133824839888386686 0
 106C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\lines-and-columns\README.md133824839879727787 0
 85C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\braces133824839882838646 1
-131C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\react-refresh\cjs\react-refresh-babel.development.js133824839882157863 0
-110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\domutils\lib\esm\stringify.d.ts133824839894244326 0
-83C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\lmdb133824839907558828 1
-127C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@swc\helpers\src\_class_apply_descriptor_set.mjs133824839919496126 0
 109C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\cache\src\LMDBCache.js133824839895158812 0
 110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\regions\GU.js133824839919204884 0
 99C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@swc\core\Visitor.js133824839883271097 0
@@ -305,12 +323,6 @@
 140C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\mdn-css-backdrop-pseudo-element.js133824839924357417 0
 131C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\posthtml\node_modules\htmlparser2\lib\FeedHandler.js133824839906644947 0
 86C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\is-glob133824839878293290 1
-103C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\semver\functions\sort.js133824839890950054 0
-123C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\css-page-break.js133824839910732554 0
-103C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\ordered-binary\README.md133824839883852567 0
-110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\regions\MN.js133824839925206976 0
-88C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\js-tokens133824839880223613 1
-123C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@swc\helpers\_\_async_generator\package.json133824839910857751 0
 98C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\safe-buffer\LICENSE133824839878985837 0
 102C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\workers\LICENSE133824839891548311 0
 86C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\js-yaml133824839889899310 1
@@ -320,6 +332,10 @@
 101C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\semver\ranges\valid.js133824839891568335 0
 84C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\json5133824839884794453 1
 104C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@swc\counter\package.json133824839881937715 0
+131C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\react-refresh\cjs\react-refresh-babel.development.js133824839882157863 0
+110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\domutils\lib\esm\stringify.d.ts133824839894244326 0
+83C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\lmdb133824839907558828 1
+127C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@swc\helpers\src\_class_apply_descriptor_set.mjs133824839919496126 0
 129C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\posthtml\node_modules\domutils\lib\manipulation.js133824839908844570 0
 89C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\micromatch133824839881768969 1
 155C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json133824839907740689 0
@@ -506,6 +522,7 @@
 108C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\weak-lru-cache\dist\index.cjs133824839877295412 0
 123C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@swc\helpers\esm\_class_private_field_set.js133824839901162859 0
 139C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@swc\helpers\_\_object_without_properties_loose\package.json133824839916311267 0
+92C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\dist\index.4dfb7193.js.map133825446982003274 0
 133C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\posthtml\node_modules\htmlparser2\lib\FeedHandler.d.ts133824839921764587 0
 135C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\CHANGES133824839885387306 0
 123C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\posthtml\node_modules\entities\lib\generated133824839909446977 1
@@ -642,8 +659,6 @@
 105C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\picomatch\lib\picomatch.js133824839879640678 0
 119C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\use-strict.js133824839931383313 0
 118C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\runtime-browser-hmr\src\loaders133824839904261768 1
-127C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\html-media-capture.js133824839919883989 0
-92C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\types133824839891957822 1
 109C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\lmdb\dependencies\lmdb-data-v1133824839885047416 1
 98C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\type-fest\readme.md133824839878153424 0
 110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\regions\MZ.js133824839925858630 0
@@ -751,7 +766,6 @@
 115C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\webgpu.js133824839932773151 0
 112C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\domhandler\lib\esm\index.d.ts.map133824839882427009 0
 105C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\picomatch\lib\constants.js133824839877404808 0
-122C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\html5semantic.js133824839919937609 0
 158C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\maps\decode.json133824839907221035 0
 113C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\type-fest\source\set-required.d.ts133824839889690011 0
 91C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\js-yaml\dist133824839890077472 1
@@ -870,8 +884,6 @@
 101C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\supports-color\license133824839876445646 0
 102C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\semver\classes\range.js133824839890036943 0
 106C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\supports-color\package.json133824839878375060 0
-103C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\htmlnano\lib\helpers.mjs133824839897682732 0
-110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\regions\ME.js133824839924774268 0
 96C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\srcset\index.d.ts133824839881859368 0
 121C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@swc\helpers\cjs\_class_name_tdz_error.cjs133824839888725017 0
 104C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\transformer-babel133824839903911593 1
@@ -1082,17 +1094,6 @@
 107C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\posthtml-parser\package.json133824839883241085 0
 155C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test.cmd133824839956626000 0
 121C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\script-async.js133824839928571190 0
-91C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\posthtml\lib133824839882547098 1
-121C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@swc\helpers\cjs\_wrap_async_generator.cjs133824839897974476 0
-104C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\posthtml-parser\readme.md133824839883530629 0
-107C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\postcss-value-parser\LICENSE133824839879577172 0
-113C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\packager-wasm\package.json133824839900147448 0
-110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\regions\IR.js133824839922221084 0
-125C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\meta-theme-color.js133824839924976976 0
-109C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\utils\src\sourcemap.js133824839911385956 0
-118C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\css-masks.js133824839909446977 0
-105C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\utils\package.json133824839911843843 0
-95C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\posthtml\license133824839881503446 0
 97C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\msgpackr\pack.d.ts133824839895287053 0
 120C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\multicolumn.js133824839925553924 0
 117C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\css-sel3.js133824839911648812 0
@@ -1293,9 +1294,6 @@
 110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\lmdb\dependencies\lz4\lib\lz4.h133824839901396587 0
 105C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@lezer\common\package.json133824839885982351 0
 134C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\posthtml\node_modules\dom-serializer\lib\esm\index.d.ts133824839909036315 0
-103C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\json5\dist\index.min.mjs133824839885408927 0
-97C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\dotenv\lib\main.js133824839886077305 0
-103C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\picocolors\picocolors.js133824839881903276 0
 119C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@swc\helpers\esm\_array_without_holes.js133824839898775793 0
 138C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\posthtml\node_modules\dom-serializer\lib\esm\index.d.ts.map133824839908560773 0
 112C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@swc\helpers\_\_apply_decs_2203_r133824839910442760 1
@@ -1333,6 +1331,9 @@
 118C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\png-alpha.js133824839927447064 0
 99C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\dotenv\lib\main.d.ts133824839887918181 0
 105C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\picocolors\picocolors.d.ts133824839883466048 0
+103C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\json5\dist\index.min.mjs133824839885408927 0
+97C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\dotenv\lib\main.js133824839886077305 0
+103C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\picocolors\picocolors.js133824839881903276 0
 99C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\picocolors\README.md133824839883241085 0
 101C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\lmdb\dependencies\lmdb133824839886240536 1
 110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\regions\SG.js133824839928850496 0
@@ -1383,7 +1384,6 @@
 117C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\ordered-binary\.nyc_output\processinfo133824839883251087 1
 122C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\transformer-js\lib\JSTransformer.js133824839898753517 0
 113C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\htmlnano\lib\modules\minifyCss.cjs133824839888323192 0
-106C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\bundler-default\lib133824839903653121 1
 107C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\domutils\lib\esm\querying.js133824839883916520 0
 128C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\ordered-binary\.nyc_output\processinfo\index.json133824839883314868 0
 124C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@swc\helpers\esm\_class_private_method_set.js133824839902064955 0
@@ -1595,8 +1595,8 @@
 96C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\lmdb\dependencies133824839902647069 1
 113C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\markdown-ansi\package.json133824839887424100 0
 88C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\lmdb\dict133824839907790660 1
-88C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\lmdb\dist133824839905246688 1
 104C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\htmlnano\lib\htmlnano.cjs133824839886983778 0
+88C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\lmdb\dist133824839905246688 1
 95C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\lmdb\index.d.cts133824839900088482 0
 110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\regions\MS.js133824839925420117 0
 100C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\browserslist\error.js133824839885162753 0
@@ -1817,9 +1817,6 @@
 119C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@swc\helpers\esm\_array_like_to_array.js133824839898596391 0
 110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\regions\JM.js133824839922305375 0
 99C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\json5\lib\require.js133824839882036565 0
-115C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\bigint.js133824839895457960 0
-103C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\json5\lib\stringify.d.ts133824839886973664 0
-110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\regions\ZW.js133824839933606734 0
 95C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\.bin\js-yaml.ps1133824839956559280 0
 101C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\json5\lib\stringify.js133824839882653389 0
 101C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\json5\lib\unicode.d.ts133824839887358415 0
@@ -1943,6 +1940,8 @@
 99C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\htmlnano\LICENSE.txt133824839900207448 0
 97C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\htmlnano\README.md133824839896998941 0
 95C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\htmlnano\test.js133824839891050062 0
+103C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\htmlnano\lib\helpers.mjs133824839897682732 0
+110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\regions\ME.js133824839924774268 0
 103C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\cosmiconfig\package.json133824839886667339 0
 120C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\utils\test\input\config\config.js133824839905246688 0
 131C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\viewport-unit-variants.js133824839931982218 0
@@ -2844,6 +2843,9 @@
 101C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\logger\LICENSE133824839905266596 0
 119C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\hashchange.js133824839919360593 0
 115C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\hidden.js133824839919486082 0
+127C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\html-media-capture.js133824839919883989 0
+92C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\types133824839891957822 1
+122C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\html5semantic.js133824839919937609 0
 107C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\logger\lib\Logger.js133824839905429464 0
 128C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\http-live-streaming.js133824839919957513 0
 114C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\caniuse-lite\data\features\http2.js133824839919995162 0
@@ -3864,7 +3866,6 @@
 110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\reporter-dev-server\src133824839908574173 1
 129C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\reporter-dev-server\src\templates\404.html133824839904459285 0
 128C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\reporter-dev-server\lib\ServerReporter.js133824839908488449 0
-110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\bundler-default\LICENSE133824839903470463 0
 132C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\reporter-dev-server\lib\ServerReporter.js.map133824839925440040 0
 103C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\reporter-cli\lib133824839908031643 1
 107C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\reporter-cli\LICENSE133824839905090496 0
@@ -4136,6 +4137,8 @@
 107C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\cache\src\FSCache.js133824839894055564 0
 105C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\cache\src\index.js133824839894828321 0
 105C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\cache\lib\types.js133824839895251779 0
+106C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\bundler-default\lib133824839903653121 1
+110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\bundler-default\LICENSE133824839903470463 0
 115C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\bundler-default\package.json133824839904199243 0
 124C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@parcel\bundler-default\lib\DefaultBundler.js133824839903881618 0
 132C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\index.js133824839878315040 0
@@ -4199,4 +4202,7 @@
 110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\node_modules\.bin\update-browserslist-db.cmd133824839956569232 0
 92C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\dist\index.20defaad.js.map133824858382808961 0
 92C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\dist\index.39428179.js.map133825414947235178 0
-81C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\dist\index.html133825414946495555 0
+88C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\dist\index.4dfb7193.js133825446981947849 0
+88C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\dist\index.73188620.js133825432417265990 0
+92C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\dist\index.73188620.js.map133825432417332292 0
+81C:\Users\hmam0\OneDrive\Desktop\Design Patterns\OOP_in_typeScript\dist\index.html133825446981932541 0
