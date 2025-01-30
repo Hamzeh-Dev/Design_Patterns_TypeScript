@@ -1,4 +1,4 @@
-4200
+4204
 83C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\dotenv133826645043285355 1
 113C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\@parcel\package-manager\src\index.js133826645042009862 0
 123C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\posthtml\node_modules\entities\lib\encode.d.ts133826645046212091 0
@@ -23,11 +23,11 @@
 110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\@swc\helpers\cjs\_export_star.cjs133826645047774747 0
 83C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\@babel133826645025184601 1
 120C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\update-browserslist-db\check-npm-version.js133826645039742684 0
-83C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\Creational_Patterns133825617812762119 1
+83C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\Creational_Patterns133826672198182226 1
 113C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\htmlnano\docs\docs\060-contribute.md133826645049568470 0
 120C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\@parcel\workers\lib\threads\ThreadsChild.js133826645047000106 0
 108C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\caniuse-lite\data\regions\IT.js133826645057642589 0
-68C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\dist133826646200985864 1
+68C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\dist133827257907158191 1
 106C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\@swc\helpers\_\_object_spread133826645054724918 1
 106C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\dom-serializer\lib\index.d.ts133826645044695256 0
 87C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\semver\bin133826645047327168 1
@@ -45,7 +45,7 @@
 82C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\@lmdb133826645912237099 1
 116C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\caniuse-lite\data\features\wake-lock.js133826645063592815 0
 132C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\posthtml\node_modules\htmlparser2\lib\WritableStream.js133826645042104113 0
-74C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\index.html133826645159101593 0
+74C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\index.html133827255592199595 0
 108C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\caniuse-lite\data\regions\LT.js133826645058474181 0
 110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\caniuse-lite\data\features\sni.js133826645061848865 0
 131C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\@parcel\core\test\fixtures\targets-default-distdir-two133826645053436508 1
@@ -2223,6 +2223,7 @@
 117C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\@parcel\events\test\ValueEmitter.test.js133826645044208217 0
 111C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\electron-to-chromium\versions.json133826645043945014 0
 103C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\dotenv-expand\CHANGELOG.md133826645041258393 0
+93C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\Creational_Patterns\Prototype133827250312138745 1
 133C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\@swc\helpers\esm\_class_static_private_field_spec_set.js133826645051149955 0
 112C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\@parcel\types-internal\package.json133826645044475541 0
 100C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\dotenv-expand\config.js133826645039789856 0
@@ -3645,6 +3646,7 @@
 105C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\@parcel\workers\lib\index.js133826645045644823 0
 105C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\@parcel\workers\lib\types.js133826645047282103 0
 110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\@parcel\workers\lib\WorkerFarm.js133826645048011355 0
+106C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\Creational_Patterns\Prototype\Prototype.ts133827257906713889 0
 110C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\@parcel\watcher-win32-x64\LICENSE133826645039302629 0
 141C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\@parcel\core\test\fixtures\custom-format-infer-type\package.json133826645052943604 0
 115C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\@parcel\watcher-win32-x64\package.json133826645039752760 0
@@ -4197,5 +4199,7 @@
 92C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\.bin\semver.cmd133826645270345720 0
 104C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\node_modules\.bin\update-browserslist-db133826645270351111 0
 86C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\dist\index.d53763df.js133826646200985864 0
-79C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\dist\index.html133826646200432723 0
+86C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\dist\index.e524934d.js133827257907098520 0
+90C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\dist\index.e524934d.js.map133827257907148175 0
+79C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\dist\index.html133827255599134844 0
 103C:\Users\hmam0\OneDrive\Desktop\Design Patterns\Design_Patterns\Creational_Patterns\Singleton\Logger.ts133826644711227261 0
